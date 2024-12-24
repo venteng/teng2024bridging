@@ -18,7 +18,7 @@ Credit scoring is pivotal in the financial industry for assessing individuals’
 
 ### Keywords
 
-Credit scoringCluster-then-predictRescalingXGBoostLogistic Regression
+Credit scoring, Cluster-then-predict, Rescaling, XGBoost, Logistic Regression
 
 ### Other Information 
 
