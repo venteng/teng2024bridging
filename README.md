@@ -20,7 +20,9 @@ Credit scoring is pivotal in the financial industry for assessing individuals’
 
 Credit scoring, Cluster-then-predict, Rescaling, XGBoost, Logistic Regression
 
-### Other Information 
+### Citation
+
+Teng, Huei-Wen, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. "Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring." International Review of Financial Analysis 91 (2024): 103005.
 
 https://doi.org/10.1016/j.irfa.2023.103005
 
