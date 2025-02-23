@@ -27,5 +27,4 @@ Teng, Huei-Wen, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. "Bridging accuracy a
 https://doi.org/10.1016/j.irfa.2023.103005
 
 SSRN: TBA
-
-Data: TBA
+Data: Available at Kaggle
